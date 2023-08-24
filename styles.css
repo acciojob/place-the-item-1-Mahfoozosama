@@ -1,11 +1,11 @@
-.flexing{
+.holder{
 	flex-direction:row;
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
 
 }
-.border{
+.item{
 	width:100px;
 	height:100px;
 	font-size: 50px;
